@@ -6,5 +6,6 @@ int main()
 	cout << "First Commit" << endl;
 	cout << "Second Commit" << endl;
 	cout << "Third Commit" << endl;
+	cout << "Fourth Commit" << endl;
 	return 0;
 }
